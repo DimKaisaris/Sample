@@ -1,1 +1,1 @@
-# Sample
+# Example of README.md
